@@ -1,7 +1,7 @@
 <h1 align="left">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Martins Menezes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=opedroca&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Bachelor of Laws who wants to become <dev> and focused on technology. In career transition.
+- 🔥 Bachelor of Laws who wants to become < dev > and focused on technology. In career transition.
 - 🔭 I’m currently working at [CAMES](https://camesbrasil.com.br/)
 - 💬 Currently studying **JavaScript, HTML, CSS, SQL, Python**
 - 👨‍💻 I regularly post on [linkedin.com/pedromartinsmenezes](https://www.linkedin.com/in/pedromartinsmenezes/)
